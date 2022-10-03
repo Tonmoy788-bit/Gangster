@@ -1,0 +1,31 @@
+body {
+    font-family: 'Roboto Slab', serif;
+    background-color: #E5E5E5;
+}
+
+.images-item {
+    width: 1300px;
+    height: 520px;
+}
+
+.img-fluide-item {
+    width: 500px;
+    height: 500px;
+}
+
+.text-liner {
+    color: rgba(112, 112, 247, 0.767);
+}
+
+.item-color {
+    background-color: rgba(203, 240, 252, 0.945);
+}
+
+
+.footer-item {
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+.don-item {
+    color: mediumorchid;
+}
